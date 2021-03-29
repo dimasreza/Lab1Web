@@ -49,7 +49,6 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 ```
 ![SS LANGKAH 3](https://user-images.githubusercontent.com/56240719/112879263-1fce5280-90f3-11eb-818b-211ee32a32b3.png)
 
-```
 ## Langkah 4
 ### Memformat Teks menggunakan format-format teks yang tersedia seperti ``` <b>, <strong>, <i>, <em>, <mark>, <small>, <dell>, <ins>, <sub>, <sup>```.
 ```
