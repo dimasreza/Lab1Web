@@ -22,7 +22,7 @@ Universitas Pelita Bangsa
 ![SS  LANGKAH 1](https://user-images.githubusercontent.com/56240719/112867298-f27aa800-90e4-11eb-9368-fd53a5cc9dfa.png)
 
 ## Langkah 2
-### Membuat 2 buah paragraf 
+### Membuat 2 buah paragraf dan mengatur atribut paragraf 
 Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 ```
 <!-- Ini adalah paragraf pertama -->
