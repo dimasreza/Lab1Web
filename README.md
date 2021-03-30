@@ -113,3 +113,5 @@ Dari hasil pengamatan saya, tag <p> digunakan untuk mengganti paragraf, karena j
 ```
 3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`, berikan penjelasannya!
 ```
+Atribut title pada tag <img> digunakan untuk memberikan informasi pada gambar yang di tampilkan.
+Sedangkan atribut alt pada tag <img> digunakan untuk memberikan informasi pada gambar jika gambar tersebut gagal untuk ditampilkan.
