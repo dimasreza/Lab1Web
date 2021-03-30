@@ -107,6 +107,9 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 Ketika saya mencoba melakukan perubahan pada tag paragraf menggunakan huruf kapital <P tidak terjadi error ataupun perubahan pada code maupun hasil di browser.
 Begitupun ketika saya mencoba mennghilangkan penutup atau garis miring (/) di penghujung paragraf pun tidak terjadi error ataupun perubahan pada code maupun hasil di browser.
 ```
-2.  2. Apa perbedaan dari tag `<p>` dengan tag `<br>` berikan penjelasannya!
+2. Apa perbedaan dari tag `<p>` dengan tag `<br>` berikan penjelasannya!
 ```
 Dari hasil pengamatan saya, tag <p> digunakan untuk mengganti paragraf, karena jarak garis baru (enternya) lebih jauh dibanding dengan tag <br> yang digunakan untuk pindah ke garis baru
+```
+3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`, berikan penjelasannya!
+```
