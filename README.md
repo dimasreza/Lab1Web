@@ -57,7 +57,7 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
 ```
-![SS LANGKAH 4](https://user-images.githubusercontent.com/56240719/112919527-7ce8f900-9131-11eb-8389-61ea07a53ae5.png)
+![SS LANGKAH 4](https://user-images.githubusercontent.com/56240719/112925795-a0657100-913c-11eb-9989-63b0dbf7aa05.png)
 
 ## Langkah 5
 ### Menampilkan gambar dengan cara mengambil gambar lalu sisipkan gambar dengan file HTML yang sudah di buat
