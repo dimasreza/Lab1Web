@@ -70,6 +70,7 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 </body>
 </html>
 ```
+![SS LANGKAH 5 Tampilan Gambar](https://user-images.githubusercontent.com/56240719/112922307-7b6dff80-9136-11eb-88ba-d9f491fa7721.png)
 
 ## Langkah 6
 ### Menambahkan Hyperlink. Tambahkan hyperlink pada dokumen sebelum heading 1.
