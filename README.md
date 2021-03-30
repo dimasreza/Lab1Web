@@ -61,7 +61,7 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 
 ## Langkah 5
 ### Menampilkan gambar dengan cara mengambil gambar lalu sisipkan gambar dengan file HTML yang sudah di buat
-![SS LANGKAH 5](https://user-images.githubusercontent.com/56240719/112920489-4613e280-9133-11eb-85ac-7406f0d07838.png)
+![SS LANGKAH 5](https://user-images.githubusercontent.com/56240719/112922096-14e8e180-9136-11eb-8203-07bbb1a19c1d.png)
 ```
 <!-- sub judul paragraf -->
 <h3>Menambahkan Gambar</h3>
