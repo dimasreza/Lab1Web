@@ -101,4 +101,8 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 ```
 ![SS  LANGKAH 7](https://user-images.githubusercontent.com/56240719/112924567-917dbf00-913a-11eb-8e23-ad66464955f2.png)
 
-
+## Jawablah pertanyaan berikut 
+1. Lakukan perubahan pada code sesuai dengan keinginan anda, amati perubahannya adakah _error_ ketika terjadi kesalahan penulisan tag?
+```
+Ketika saya mencoba melakukan perubahan pada tag paragraf menggunakan huruf kapital <P tidak terjadi error ataupun perubahan pada code maupun hasil di browser.
+Begitupun ketika saya mencoba mennghilangkan penutup atau garis miring (/) di penghujung paragraf pun tidak terjadi error ataupun perubahan pada code maupun hasil di browser.
