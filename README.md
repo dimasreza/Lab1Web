@@ -83,6 +83,8 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
     </nav>
     <hr>
 ```
+![SS LANGKAH 6](https://user-images.githubusercontent.com/56240719/112922831-5ded6580-9137-11eb-8389-2b4920ad31b4.png)
+
 ## Langkah 7
 ### Membuat halaman ke 2 yang akan terhubung dengan halaman 1 dengan cara menggunakan hyperlink
 ```
