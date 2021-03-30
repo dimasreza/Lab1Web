@@ -1,9 +1,9 @@
 # Praktikum1 (Pemrograman Web)
-```
-Dimas Reza Nugraha
-311910431
-TI.19.A.2
-Universitas Pelita Bangsa
+
+## Dimas Reza Nugraha
+## 311910431
+## TI.19.A.2
+## Universitas Pelita Bangsa
 ```
 
 ## Langkah 1
