@@ -19,7 +19,7 @@ Universitas Pelita Bangsa
 </body>
 </html>
 ```
-![SS  LANGKAH 1](https://user-images.githubusercontent.com/56240719/112867298-f27aa800-90e4-11eb-9368-fd53a5cc9dfa.png)
+![SS  LANGKAH 1](https://user-images.githubusercontent.com/56240719/112924842-094be980-913b-11eb-9734-76392fc6987f.png)
 
 ## Langkah 2
 ### Membuat 2 buah paragraf dan mengatur atribut paragraf 
