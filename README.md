@@ -119,3 +119,10 @@ Sedangkan atribut alt pada tag <img> digunakan untuk memberikan altenatif ketera
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 ```
 Menurut saya, bisa disesuaikan. Misalkan untuk mengatur gambar agar tampil proporsional gunakan width dan height sesuai ukuran aslinya, jika ingin mengecilkan ukuran gambar gunakan ukuran yang proposional misal, kita akan ubah width 50px dan height 50px.
+```
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
+```
+Nilai _blank    : Menampilkan halaman website yang di link ke dalam tab yang baru.
+Nilai _self     : Menampilkan halaman website yang di link ke dalam tab atau frame yang sama yang digunakan saat ini.
+Nilai _top      : Menampilkan halaman website yang di link ke dalam tab yang baru yang ditampilkan dalam fullscreen dan membatalkan semua frame.
+Nilai _parent   : Menampilkan halaman website yang di link ke dalam parent frame
