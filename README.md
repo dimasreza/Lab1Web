@@ -99,5 +99,6 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 </body>
 </html>
 ```
-![SS  LANGKAH 7](https://user-images.githubusercontent.com/56240719/112923312-41056200-9138-11eb-8be7-cbe2012f831d.png)
+![SS  LANGKAH 7](https://user-images.githubusercontent.com/56240719/112924567-917dbf00-913a-11eb-8e23-ad66464955f2.png)
+
 
