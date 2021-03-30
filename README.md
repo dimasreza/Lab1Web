@@ -114,4 +114,8 @@ Dari hasil pengamatan saya, tag <p> digunakan untuk mengganti paragraf, karena j
 3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`, berikan penjelasannya!
 ```
 Atribut title pada tag <img> digunakan untuk memberikan informasi pada gambar yang di tampilkan.
-Sedangkan atribut alt pada tag <img> digunakan untuk memberikan informasi pada gambar jika gambar tersebut gagal untuk ditampilkan.
+Sedangkan atribut alt pada tag <img> digunakan untuk memberikan altenatif keterangan pada gambar jika gambar tersebut gagal untuk ditampilkan.
+```
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+```
+Menurut saya, bisa disesuaikan. Misalkan untuk mengatur gambar agar tampil proporsional gunakan width dan height sesuai ukuran aslinya, jika ingin mengecilkan ukuran gambar gunakan ukuran yang proposional misal, kita akan ubah width 50px dan height 50px.
