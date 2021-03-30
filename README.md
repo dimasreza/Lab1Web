@@ -36,7 +36,7 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
     dengan menggunakan tag dasar html.</p>
 ```
-![SS LANGKAH 2](https://user-images.githubusercontent.com/56240719/112879150-fdd4d000-90f2-11eb-9f33-3c06c4edd257.png)
+![SS LANGKAH 2](https://user-images.githubusercontent.com/56240719/112925101-7eb7ba00-913b-11eb-8cff-930d527f3268.png)
 
 ## Langkah 3
 ### Menambahkan judul menggunakan Tag Heading (h1, h2, h3, h4, h5, h6). Semakin besar angka Tag Heading, Semakin kecil ukuran Headingnya.
