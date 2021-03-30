@@ -47,7 +47,7 @@ Selanjutnya, buatlah beberapa paragraf sederhana sebagai berikut
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
 ```
-![SS LANGKAH 3](https://user-images.githubusercontent.com/56240719/112925460-1cab8480-913c-11eb-9bd2-f1cc911a14cb.png)
+![SS LANGKAH 3](https://user-images.githubusercontent.com/56240719/112925996-fd612700-913c-11eb-89f4-312323b0bea5.png)
 
 ## Langkah 4
 ### Memformat Teks menggunakan format-format teks yang tersedia seperti ``` <b>, <strong>, <i>, <em>, <mark>, <small>, <dell>, <ins>, <sub>, <sup>```.
